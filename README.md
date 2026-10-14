@@ -1,1 +1,5 @@
-# cs101-version-control-823
+# My CS Profile
+
+## About Me
+- Name: Khomkrit Sengpee
+- Major: Computer Science
